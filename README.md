@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java when iterating over arrays. The `BuggyArray.java` file shows the erroneous code, leading to an `ArrayIndexOutOfBoundsException`. The `FixedArray.java` file provides the corrected code.
